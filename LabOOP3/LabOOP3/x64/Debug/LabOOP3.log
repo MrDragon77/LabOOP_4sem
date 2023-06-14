@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\VS\repos\LabOOP_4sem\LabOOP3\LabOOP3\main.cpp(168,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\VS\repos\LabOOP_4sem\LabOOP3\LabOOP3\main.cpp(207,21): warning C4018: '<': signed/unsigned mismatch
+C:\VS\repos\LabOOP_4sem\LabOOP3\LabOOP3\main.cpp(238,20): warning C4018: '<': signed/unsigned mismatch
+C:\VS\repos\LabOOP_4sem\LabOOP3\LabOOP3\main.cpp(20,18): warning C4018: '>': signed/unsigned mismatch
+C:\VS\repos\LabOOP_4sem\LabOOP3\LabOOP3\main.cpp(15): message : while compiling class template member function 'void MyContainer<MyObject>::Grow(unsigned int)'
+C:\VS\repos\LabOOP_4sem\LabOOP3\LabOOP3\main.cpp(69): message : see reference to function template instantiation 'void MyContainer<MyObject>::Grow(unsigned int)' being compiled
+C:\VS\repos\LabOOP_4sem\LabOOP3\LabOOP3\main.cpp(229): message : see reference to class template instantiation 'MyContainer<MyObject>' being compiled
+  LabOOP3.vcxproj -> C:\VS\repos\LabOOP_4sem\LabOOP3\x64\Debug\LabOOP3.exe
