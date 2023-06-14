@@ -1,0 +1,17 @@
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\bin\Debug\net6.0-windows\LabOOP8_sharp.exe
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\bin\Debug\net6.0-windows\LabOOP8_sharp.deps.json
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\bin\Debug\net6.0-windows\LabOOP8_sharp.runtimeconfig.json
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\bin\Debug\net6.0-windows\LabOOP8_sharp.dll
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\bin\Debug\net6.0-windows\LabOOP8_sharp.pdb
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.csproj.AssemblyReference.cache
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.MyForm.resources
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.csproj.GenerateResource.cache
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.AssemblyInfoInputs.cache
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.AssemblyInfo.cs
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.csproj.CoreCompileInputs.cache
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.dll
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\refint\LabOOP8_sharp.dll
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.pdb
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\LabOOP8_sharp.genruntimeconfig.cache
+C:\VS\repos\LabOOP_4sem\LabOOP8_sharp\LabOOP6_sharp\obj\Debug\net6.0-windows\ref\LabOOP8_sharp.dll
