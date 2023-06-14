@@ -1,0 +1,4 @@
+﻿  Passing_objects_to_a_function.cpp
+C:\VS\repos\LabOOP_4sem\LabOOP5\Passing_objects_to_a_function\Passing_objects_to_a_function.cpp(61): warning C4172: returning address of local variable or temporary: obj
+C:\VS\repos\LabOOP_4sem\LabOOP5\Passing_objects_to_a_function\Passing_objects_to_a_function.cpp(66): warning C4172: returning address of local variable or temporary: obj
+  Passing_objects_to_a_function.vcxproj -> C:\VS\repos\LabOOP_4sem\LabOOP5\x64\Debug\Passing_objects_to_a_function.exe
