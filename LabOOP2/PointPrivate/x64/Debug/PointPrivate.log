@@ -1,0 +1,17 @@
+﻿  main_PointPrivate.cpp
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x63a that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x63d that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x640 that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x643 that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x648 that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x64b that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x64e that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x651 that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x693 that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x696 that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x699 that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x69c that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x69f that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6a2 that is illegal in the current source character set (codepage 65001).
+C:\VS\repos\LabOOP2\PointPrivate\main_PointPrivate.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6a5 that is illegal in the current source character set (codepage 65001).
+  PointPrivate.vcxproj -> C:\VS\repos\LabOOP2\x64\Debug\PointPrivate.exe
